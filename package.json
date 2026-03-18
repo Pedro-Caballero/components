@@ -1,0 +1,32 @@
+{
+  "name": "@caballero/caba-nav",
+  "version": "1.0.0",
+  "description": "Webcomponent caba-nav to create a nav bar",
+  "keywords": [
+    "nav",
+    "feedback",
+    "web components",
+    "Lit",
+    "custom element"
+  ],
+  "type": "module",
+  "author": "caballeroWeb",
+  "homepage": "https://github.com/Pedro-Caballero/components",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Caballero/components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Pedro-Caballero/components/issues"
+  },
+  "dependencies": {
+    "lit": "^2.6.1"
+  }
+}
