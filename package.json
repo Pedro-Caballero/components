@@ -1,6 +1,6 @@
 {
-  "name": "@caballero/caba-nav",
-  "version": "1.0.0",
+  "name": "@pedrocaballeroweb/caba-nav",
+  "version": "1.0.1",
   "description": "Webcomponent caba-nav to create a nav bar",
   "keywords": [
     "nav",
@@ -10,8 +10,9 @@
     "custom element"
   ],
   "type": "module",
-  "author": "caballeroWeb",
+  "author": "Pedro Caballero",
   "homepage": "https://github.com/Pedro-Caballero/components",
+  "license": "MIT",
   "main": "index.js",
   "publishConfig": {
     "access": "public"

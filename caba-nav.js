@@ -1,3 +1,3 @@
-import { CabaeNav, CabaNav } from './src/CabaNav.js';
+import { CabaNav } from './src/CabaNav.js';
 
 window.customElements.define('caba-nav', CabaNav);
