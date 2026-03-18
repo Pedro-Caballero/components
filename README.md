@@ -1,4 +1,4 @@
-# @dile/dile-nav
+# @caba/caba-nav
 
 Web Component to create a nav bar
 
